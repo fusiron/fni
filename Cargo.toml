@@ -1,0 +1,10 @@
+[package]
+name = "fni"
+version = "0.0.1"
+edition = "2021"
+license = "MIT"
+description = "fni"
+repository = "https://github.com/fusiron/fni.git"
+readme = "README.md"
+
+[dependencies]
